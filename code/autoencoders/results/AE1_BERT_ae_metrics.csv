@@ -1,0 +1,4 @@
+Metric,Value
+Reconstruction MSE,0.000747
+Reconstruction MAE,0.018236
+Reconstruction RMSE,0.027329
